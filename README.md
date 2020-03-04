@@ -61,6 +61,6 @@ Performance on desktop (mouse input lag): 2-3 frames @ 250Hz (~10ms)
 Conclusion: I'll be using the latest version of Windows for maximum performance. Common tweaks found online made no difference to the results, not with a 240 FPS camera anyway.
 
 
-* Some of the usual tweaks you see online, however most have little if any impact on performance. disabledynamictick = Yes, UMP apps removed, slimmed down Nvidia driver, Spectre and Meltdown disabled, services disabled (5 in Windows 10, several including DWM/Themes in Windows 7), etc.
+(*) Some of the usual tweaks you see online, however most have little if any impact on performance. disabledynamictick = Yes, UMP apps removed, slimmed down Nvidia driver, Spectre and Meltdown disabled, services disabled (5 in Windows 10, several including DWM/Themes in Windows 7), etc.
 
-+ Game = Battlefield 4 using "Test Range" map for 120 seconds.
+(+) Game = Battlefield 4 using "Test Range" map for 120 seconds.
