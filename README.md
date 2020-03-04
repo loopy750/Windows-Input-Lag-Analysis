@@ -24,37 +24,37 @@ Results are incomplete and I may or may not ever update them.
 * OS Version: **Windows 7 (7601 SP1) [MBR]**\
 Nvidia Driver Version: 442.19\
 Performance in game (FPS)+: not tested\
-Performance in game (mouse input lag): not tested\
+Performance in game (mouse input lag)+: not tested\
 Performance on desktop (mouse input lag): 2-3 frames @ 250Hz (~10ms)
 
 * OS Version: **Windows 7 (7601 SP1) [GPT]**\
 Nvidia Driver Version: 442.19\
 Performance in game (FPS)+: 0.1%: 255, 1%: 350, Min: 439, Avg: 534, Max: 605\
-Performance in game (mouse input lag): 3 frames @ 250Hz (~12ms)\
+Performance in game (mouse input lag)+: 3 frames @ 250Hz (~12ms)\
 Performance on desktop (mouse input lag): 2-3 frames @ 250Hz (~10ms)
 
 * OS Version: **Windows 10 (1709) Build 16299.15**\
 Nvidia Driver Version: 442.50\
 Performance in game (FPS)+: 0.1%: 353, 1%: 407, Min: 450, Avg: 549, Max: 650\
-Performance in game (mouse input lag): 3 frames @ 250Hz (~12ms)\
+Performance in game (mouse input lag)+: 3 frames @ 250Hz (~12ms)\
 Performance on desktop (mouse input lag): 2-3 frames @ 250Hz (~10ms)
 
 * OS Version: **Windows 10 (1809) Build 17763.1**\
 Nvidia Driver Version: 442.50\
 Performance in game (FPS)+: not tested\
-Performance in game (mouse input lag): not tested\
+Performance in game (mouse input lag)+: not tested\
 Performance on desktop (mouse input lag): 2-3 frames @ 250Hz (~10ms)
 
 * OS Version: **Windows 10 (1909) Build 18363.693**\
 Nvidia Driver Version: 442.50\
 Performance in game (FPS)+: 0.1%: 359, 1%: 399, Min: 442, Avg: 540, Max: 655\
-Performance in game (mouse input lag): 3 frames @ 250Hz (~12ms)\
+Performance in game (mouse input lag)+: 3 frames @ 250Hz (~12ms)\
 Performance on desktop (mouse input lag): 2-3 frames @ 250Hz (~10ms)
 
 * OS Version: **Windows 10 (2004) Build 19041.113**\
 Nvidia Driver Version: 450.12\
 Performance in game (FPS)+: 0.1%: 345, 1%: 405, Min: 460, Avg: 555, Max: 660\
-Performance in game (mouse input lag): 3 frames @ 250Hz (~12ms)\
+Performance in game (mouse input lag)+: 3 frames @ 250Hz (~12ms)\
 Performance on desktop (mouse input lag): 2-3 frames @ 250Hz (~10ms)
 
 
@@ -69,6 +69,6 @@ Hardware:
 · Monitor: BenQ XL2720Z 27 inch 144Hz (@ 250Hz)\
 · Mouse: Zowie FK1
 
-(*) Some of the usual tweaks you see online, however most have little if any impact on performance. disabledynamictick = Yes, UMP apps removed, slimmed down Nvidia driver, Spectre and Meltdown disabled, services disabled (5 in Windows 10, several including DWM/Themes in Windows 7), etc.
+ \* Some of the usual tweaks you see online, however most have little if any impact on performance. disabledynamictick = Yes, UMP apps removed, slimmed down Nvidia driver, Spectre and Meltdown disabled, services disabled (5 in Windows 10, several including DWM/Themes in Windows 7), etc.
 
-(+) Game = Battlefield 4 using "Test Range" map for 120 seconds.
+ \+ Game = Battlefield 4 using "Test Range" map for 120 seconds.
