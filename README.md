@@ -2,16 +2,16 @@
 
 # Windows Input Lag Analysis
 
-A quick overview of mouse input delay in Windows 10
+### A quick overview of mouse input delay in Windows 10
 
-What this is:
+##### What this is:
 
 Very basic analysis to validate or invalidate online claims regarding input latency and older Windows versions being better for gaming.
 
 240 FPS camera was used for testing mouse movement and input delay. MSI Afterburner 4.6.2 used for FPS measurements.
 
 
-What this isn't:
+##### What this isn't:
 
 An in-depth analysis into multiple games and how they function under multiple Windows versions using a high-speed camera, such as 1000 FPS.
 
