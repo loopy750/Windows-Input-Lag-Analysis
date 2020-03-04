@@ -60,6 +60,14 @@ Performance on desktop (mouse input lag): 2-3 frames @ 250Hz (~10ms)
 
 Conclusion: I'll be using the latest version of Windows for maximum performance. Common tweaks found online made no difference to the results, not with a 240 FPS camera anyway.
 
+Hardware:
+
+· CPU: Intel Core i9 9900K 3.60GHz (@ 5.00GHz)\
+· GPU: ZOTAC GeForce GTX 1070 AMP! Extreme (@ 2100MHz core / 9060MHz memory)\
+· RAM: Corsair Vengeance LPX 3200MHz CL16 DDR4 32GB (4x8GB) (@ 3400MHz CL15)\
+· Motherboard: Gigabyte Z390 Aorus Elite\
+· Monitor: BenQ XL2720Z 27 inch 144Hz (@ 250Hz)\
+· Mouse: Zowie FK1
 
 (*) Some of the usual tweaks you see online, however most have little if any impact on performance. disabledynamictick = Yes, UMP apps removed, slimmed down Nvidia driver, Spectre and Meltdown disabled, services disabled (5 in Windows 10, several including DWM/Themes in Windows 7), etc.
 
