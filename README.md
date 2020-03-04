@@ -69,6 +69,6 @@ Hardware:
 · Monitor: BenQ XL2720Z 27 inch 144Hz (@ 250Hz)\
 · Mouse: Zowie FK1
 
- \* Some of the usual tweaks you see online, however most have little if any impact on performance. disabledynamictick = Yes, UMP apps removed, slimmed down Nvidia driver, Spectre and Meltdown disabled, services disabled (5 in Windows 10, several including DWM/Themes in Windows 7), etc.
+###### \* Some of the usual tweaks you see online, however most have little if any impact on performance. disabledynamictick = Yes, UMP apps removed, slimmed down Nvidia driver, Spectre and Meltdown disabled, services disabled (5 in Windows 10, several including DWM/Themes in Windows 7), etc.
 
- \+ Game = Battlefield 4 using "Test Range" map for 120 seconds.
+###### \+ Game = Battlefield 4 using "Test Range" map for 120 seconds.
