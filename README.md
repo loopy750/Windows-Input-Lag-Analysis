@@ -35,6 +35,9 @@ Performance on desktop (mouse input lag): 2-3 frames @ 250Hz (~10ms)
 
 * OS Version: **Windows 10 (1709) Build 16299.15**\
 Nvidia Driver Version: 442.50\
+CPU-Z: 591, 6030\
+Cinebench R15: 2222\
+AIDA64 (Memory): 50790 MB/s, 53570 MB/s, 50737 MB/s, 45.3 ns\
 Performance in game (FPS)+: 0.1%: 353, 1%: 407, Min: 450, Avg: 549, Max: 650\
 Performance in game (mouse input lag)+: 3 frames @ 250Hz (~12ms)\
 Performance on desktop (mouse input lag): 2-3 frames @ 250Hz (~10ms)
@@ -47,6 +50,9 @@ Performance on desktop (mouse input lag): 2-3 frames @ 250Hz (~10ms)
 
 * OS Version: **Windows 10 (1909) Build 18363.693**\
 Nvidia Driver Version: 442.50\
+CPU-Z: 596, 6133\
+Cinebench R15: 2232\
+AIDA64 (Memory): 50648 MB/s, 53285 MB/s, 50309 MB/s, 45.5 ns\
 Performance in game (FPS)+: 0.1%: 359, 1%: 399, Min: 442, Avg: 540, Max: 655\
 Performance in game (mouse input lag)+: 3 frames @ 250Hz (~12ms)\
 Performance on desktop (mouse input lag): 2-3 frames @ 250Hz (~10ms)
