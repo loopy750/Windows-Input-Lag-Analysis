@@ -4,6 +4,8 @@
 
 ### A quick overview of mouse input delay in Windows 10
 
+A video on the bcdedit command **useplatformtick** that some "tweakers" use, and why that's a bad thing: https://www.youtube.com/watch?v=Rnk8mCB0IpU
+
 #### What this is:
 
 Very basic analysis to validate or invalidate online claims regarding input latency and older Windows versions being better for gaming.
